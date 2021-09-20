@@ -1,3 +1,4 @@
+import PDF from "../data/Usman.pdf";
 export const About = (props) => {
   return (
     <div id="about" style={{width:"100%"}}>
@@ -12,7 +13,7 @@ export const About = (props) => {
               <br/>
               <h2>About Me</h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
-              <h3 style={{cursor:"pointer"}}><a href='/somefile.txt' style={{all:"none"}} download>Download Resume</a></h3>
+              <h3 style={{cursor:"pointer"}}><a  href= {PDF} style={{all:"none"}} download>Download Resume</a></h3>
           
             </div>
           </div>
