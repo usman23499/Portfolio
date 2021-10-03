@@ -3,6 +3,8 @@ import Card from "./Card.jsx"
 
 export const Project = (props) => {
   const arr=[
+  {name:"MREN-BLOG",theory:"This application is develop using mern stack redux and scss",pic:"../img/projects/mern.png",link:"https://frozen-hamlet-45306.herokuapp.com/" },
+
   {name:"SPACEX-GQL-PWA",theory:"Spacex application on typescript with graph QL and PWA ",pic:"../img/projects/spaceX.png",link:"https://notification-b267836217.web.app/" },
   {name:"GATSBY-CMS-BLOG",theory:"This webapplication is develop on Gatsby with contentful CMS and deploy on netlify",pic:"../img/projects/CMS.png" ,link:"https://gatsbyblogbootcamp2020.netlify.app/blog"},
   {name:"CURDAPP-NETLIFY-FAUNADB-EMS",theory:"EMS with serverless netlify function, this application also deploy on netlify with CICD.",pic:"../img/projects/netlify.png",link:"https://emswithfanuadb.netlify.app/" },
