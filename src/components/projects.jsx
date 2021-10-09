@@ -3,7 +3,7 @@ import Card from "./Card.jsx"
 
 export const Project = (props) => {
   const arr=[
-  {name:"UBER-CLONE",theory:"This is a mobile application build using React Native Expo with the help of firebase storage and Redux",pic:"../img/projects/UberEats.png",link:"https://github.com/usman23499/UberEats" },
+  {name:"UBER-CLONE",theory:"This is a mobile application build using React Native Expo with the help of firebase storage and Redux",pic:"../img/projects/UberEats.jpg",link:"https://github.com/usman23499/UberEats" },
   {name:"MREN-BLOG",theory:"This application is develop using mern stack redux and scss",pic:"../img/projects/mern.png",link:"https://frozen-hamlet-45306.herokuapp.com/" },
 
   {name:"SPACEX-GQL-PWA",theory:"Spacex application on typescript with graph QL and PWA ",pic:"../img/projects/spaceX.png",link:"https://notification-b267836217.web.app/" },
