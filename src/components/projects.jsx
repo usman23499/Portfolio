@@ -79,7 +79,7 @@ export const Project = (props) => {
     <div style={{backgroundColor:"black",width:"100%"}} id='projects' className='text-center'>
       <div className='container'>
         <div className='col-md-10 col-md-offset-1 section-title'>
-          <h2 style={{marginTop:"20px",color:"white"}}>My Recent Projects</h2>
+          <h2 style={{marginTop:"20px",color:"white"}}>My Practice Projects (During Graduation)</h2>
         </div>
         <div className='row'>
          
